@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+  </a>
+</h1>
+
 <img src="https://github-readme-stats.vercel.app/api?username=mwojtow&hide=stars&count_private=true&show_icons=true&theme=gotham" alt="mwojtow" />
 
 <hr>
@@ -25,7 +31,11 @@
   <img  src="https://github-profile-trophy.vercel.app/?username=mwojtow" />
 </div>
 
+<br>
 
+<div align="center">
+	<img src="https://metrics.lecoq.io/mwojtow?template=classic&config.timezone=Europe%Warsaw">
+</div>
 
 <br>
 
