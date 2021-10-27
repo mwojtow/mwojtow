@@ -2,7 +2,7 @@
 
 📈 Take a look at my stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=grzegorzbors&show_icons=true&theme=onedark" alt="grzegorzbors" />
+<img src="https://github-readme-stats.vercel.app/api?username=mwojtow&show_icons=true&theme=onedark" alt="grzegorzbors" />
 
 <hr>
 
