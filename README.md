@@ -27,7 +27,7 @@
 
 <br>
 
-<div align="center">
+<div align="right">
   <img  src="https://profile-counter.glitch.me/mwojtow/count.svg" />
 </div>
 
