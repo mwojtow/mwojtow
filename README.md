@@ -61,13 +61,9 @@
   <img src="https://metrics.lecoq.io/mwojtow?template=classic&config.timezone=Europe%Warsaw">
 </div> -->
 
+<!-- **Reach me on:**
 <br>
-
-**Reach me on:**
-<br>
-<a href="https://www.linkedin.com/in/marciinwojtowicz/" target="_blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="linkedin icon" height="40" width="40" /></a>
-
-<br>
+<a href="https://www.linkedin.com/in/marciinwojtowicz/" target="_blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="linkedin icon" height="40" width="40" /></a> -->
 
 <div align="right">
   <img  src="https://profile-counter.glitch.me/mwojtow/count.svg" />
