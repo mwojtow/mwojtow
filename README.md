@@ -8,8 +8,6 @@
 
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"></div> -->
 
-<br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mwojtow&hide=stars&count_private=true&show_icons=true&theme=gotham" alt="mwojtow" />
 </div>
