@@ -20,17 +20,19 @@
 
 <!-- <br> -->
 
-**Languages and Tools:**  
+<!-- **Languages and Tools:**   -->
 
 <div>
-  <div>
-   <a href="https://www.linkedin.com/in/marciinwojtowicz/" target="_blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="linkedin icon" height="40" width="40" /></a>
-  </div>
-  <div align="right">
+   <div align="right">
+    <h3> Languages and Tools: </h3> 
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+  </div>
+  <div>
+  <h3> Reach me on: </h3>
+   <a href="https://www.linkedin.com/in/marciinwojtowicz/" target="_blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="linkedin icon" height="40" width="40" /></a>
   </div>
 </div>
 
@@ -59,11 +61,11 @@
 
 <br>
 
-**Reach me on:**
+<!-- **Reach me on:**
 <br>
 <a href="https://www.linkedin.com/in/marciinwojtowicz/" target="_blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="linkedin icon" height="40" width="40" /></a>
 
-<br>
+<br> -->
 
 <div align="right">
   <img  src="https://profile-counter.glitch.me/mwojtow/count.svg" />
