@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=mwojtow&show_icons=true&theme=highcontrast" alt="mwojtow" />
 
 <hr>
