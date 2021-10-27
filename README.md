@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=mwojtow&hide=stars&count_private=true&show_icons=true&theme=highcontrast" alt="mwojtow" />
+<img src="https://github-readme-stats.vercel.app/api?username=mwojtow&hide=stars&count_private=true&show_icons=true&theme=gotham" alt="mwojtow" />
 
 <hr>
 
