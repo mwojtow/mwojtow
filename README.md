@@ -26,8 +26,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwojtow&theme=dark&hide_border=true"/>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwojtow&theme=dark&hide_border=true"/>
+</div>
 
 <br>
 
