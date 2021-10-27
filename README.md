@@ -25,19 +25,23 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
-<div align="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mwojtow" />
-</div>
+<p align="center">
+  <a>
+    <img width="150" src="https://cdn.jsdelivr.net/gh/mwojtow/photos/images/202108300310676.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwojtow&theme=dark&hide_border=true"/>
+    <img width="150" src="https://cdn.jsdelivr.net/gh/mwojtow/photos/images/202108300312623.png">
+  </a>
+</p>
 
 <br>
 
 <div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=mwojtow" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=mwojtow&theme=gruvbox" />
 </div>
 
-<br>
-
-[![Marcin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mwojtow&theme=react-dark&line=00bfa5&color=00bfa5)](https://github.com/mwojtow)
+<!-- <br> -->
+<!-- 
+[![Marcin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mwojtow&theme=react-dark&line=00bfa5&color=00bfa5)](https://github.com/mwojtow) -->
 
 <!-- 
 <div align="center">
