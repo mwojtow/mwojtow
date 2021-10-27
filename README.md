@@ -20,29 +20,14 @@
 
 <!-- <br> -->
 
-<!-- **Languages and Tools:**   -->
+<!-- **Languages and Tools:** -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
-<div>
-   <div align="right">
-    <span> Languages and Tools: </span> 
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
-  </div>
-  <div>
-  <span> Reach me on: </span>
-   <a href="https://www.linkedin.com/in/marciinwojtowicz/" target="_blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="linkedin icon" height="40" width="40" /></a>
-  </div>
-</div>
 
-<p align="center">
-  <a>
-<!--     <img width="150" src="https://cdn.jsdelivr.net/gh/mwojtow/photos/images/202108300310676.png"> -->
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwojtow&theme=dark&hide_border=true"/>
-<!--     <img width="150" src="https://cdn.jsdelivr.net/gh/mwojtow/photos/images/202108300312623.png"> -->
-  </a>
-</p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwojtow&theme=dark&hide_border=true"/>
 
 <br>
 
@@ -61,11 +46,11 @@
 
 <br>
 
-<!-- **Reach me on:**
+**Reach me on:**
 <br>
 <a href="https://www.linkedin.com/in/marciinwojtowicz/" target="_blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="linkedin icon" height="40" width="40" /></a>
 
-<br> -->
+<br>
 
 <div align="right">
   <img  src="https://profile-counter.glitch.me/mwojtow/count.svg" />
