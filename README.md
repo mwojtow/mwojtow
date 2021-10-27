@@ -4,9 +4,9 @@
 
 <hr>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwojtow&layout=compact&hide=html" alt="mwojtow" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwojtow&layout=compact&hide=html" alt="mwojtow" />
 
-<!-- <br> -->
+<br>
 
 
 **Languages and Tools:**  
