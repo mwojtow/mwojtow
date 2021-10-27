@@ -37,9 +37,12 @@
 
 <br>
 
+[![Marcin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mwojtow&theme=xcode)](https://github.com/mwojtow)
+
+<!-- 
 <div align="center">
-	<img src="https://metrics.lecoq.io/mwojtow?template=classic&config.timezone=Europe%Warsaw">
-</div>
+  <img src="https://metrics.lecoq.io/mwojtow?template=classic&config.timezone=Europe%Warsaw">
+</div> -->
 
 <br>
 
