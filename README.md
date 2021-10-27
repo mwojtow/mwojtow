@@ -15,9 +15,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
+<div align="center">
+	<img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" />
+</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sun0225SUN)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 **Reach me on:**
 <br>
 <a href="https://www.linkedin.com/in/marciinwojtowicz/" target="_blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="linkedin icon" height="40" width="40" /></a>
 
 
-![Visitor Count](https://profile-counter.glitch.me/mwojtow/count.svg) 
+<!-- ![Visitor Count](https://profile-counter.glitch.me/mwojtow/count.svg)  -->
