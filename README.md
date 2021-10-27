@@ -27,8 +27,8 @@
 
 <br>
 
-<div align="right">
-  <img  src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
+<div align="center">
+  <img  src="https://visitor-badge.glitch.me/badge?page_id=mwojtow" />
 </div>
 
 <br>
