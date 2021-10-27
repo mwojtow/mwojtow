@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-📈 Take a look at my stats:
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=mwojtow&show_icons=true&theme=highcontrast" alt="mwojtow" />
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwojtow&layout=compact&hide=html" alt="mwojtow" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwojtow&layout=compact&hide=html" alt="mwojtow" /> -->
 
-<br>
+<!-- <br> -->
 
 **Reach me on:**
 <br>
