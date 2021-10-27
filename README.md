@@ -37,7 +37,7 @@
 
 <br>
 
-[![Marcin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mwojtow&theme=react-dark&line=00bfa5&area_color=00bfa5)](https://github.com/mwojtow)
+[![Marcin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mwojtow&theme=react-dark&line=00bfa5&color=00bfa5)](https://github.com/mwojtow)
 
 <!-- 
 <div align="center">
