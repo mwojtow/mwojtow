@@ -25,11 +25,7 @@
   <img  src="https://github-profile-trophy.vercel.app/?username=mwojtow" />
 </div>
 
-<br>
 
-<div align="right">
-  <img  src="https://profile-counter.glitch.me/mwojtow/count.svg" />
-</div>
 
 <br>
 
@@ -37,5 +33,8 @@
 <br>
 <a href="https://www.linkedin.com/in/marciinwojtowicz/" target="_blank"><img align="center" src="https://image0.flaticon.com/icons/png/128/174/174857.png" alt="linkedin icon" height="40" width="40" /></a>
 
+<br>
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/mwojtow/count.svg)  -->
+<div align="right">
+  <img  src="https://profile-counter.glitch.me/mwojtow/count.svg" />
+</div>
