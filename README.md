@@ -27,9 +27,9 @@
 
 <p align="center">
   <a>
-    <img width="150" src="https://cdn.jsdelivr.net/gh/mwojtow/photos/images/202108300310676.png">
+<!--     <img width="150" src="https://cdn.jsdelivr.net/gh/mwojtow/photos/images/202108300310676.png"> -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwojtow&theme=dark&hide_border=true"/>
-    <img width="150" src="https://cdn.jsdelivr.net/gh/mwojtow/photos/images/202108300312623.png">
+<!--     <img width="150" src="https://cdn.jsdelivr.net/gh/mwojtow/photos/images/202108300312623.png"> -->
   </a>
 </p>
 
