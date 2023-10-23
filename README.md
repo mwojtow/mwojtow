@@ -7,12 +7,12 @@
 </h1>
 
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"></div> -->
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mwojtow&hide=stars&count_private=true&show_icons=true&theme=gotham" alt="mwojtow" />
 </div>
 
-<hr>
+<hr> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwojtow&layout=compact&hide=html" alt="mwojtow" /> -->
 
@@ -43,6 +43,7 @@
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+<!-- 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwojtow&theme=dark&hide_border=true"/>
 </div>
@@ -51,7 +52,7 @@
 
 <div align="center">
   <img  src="https://github-profile-trophy.vercel.app/?username=mwojtow&theme=gruvbox" />
-</div>
+</div> -->
 
 <!-- 
 [![Marcin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mwojtow&theme=react-dark&line=00bfa5&color=00bfa5)](https://github.com/mwojtow) -->
